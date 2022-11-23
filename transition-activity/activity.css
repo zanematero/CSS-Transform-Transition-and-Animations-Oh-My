@@ -1,1 +1,4 @@
-
+button {
+    transition: 2s;
+    border: none;
+}
